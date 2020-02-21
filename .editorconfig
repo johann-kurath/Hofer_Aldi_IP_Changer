@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# BC42105: Die Funktion gibt nicht für alle Codepfade einen Wert zurück.
+dotnet_diagnostic.BC42105.severity = none
